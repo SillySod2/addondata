@@ -1,0 +1,107 @@
+{"addons": { 
+   "name":"iPad Air 2", 
+   "colors" : [
+		{
+       "text"  : "vit",
+       "value" : "#ffffff",
+       "sizes" : [
+			{
+              "memory" : "16",
+     	      "price"  : "199",
+			  "rebate" : "149",
+			  "rtime"  : "6",
+     	      "image"  : "\\published_images\\ipad_air_2_16gb_white.png",
+      	      "tcm"    : "tcm112-555-4544",
+      	      "offerid": "1555"
+            },
+			{
+              "memory" : "32",
+              "price"  : "249",
+			  "rebate" : "200",
+			  "rtime"  : "6",
+              "image"  : "\\published_images\\ipad_air_2_32gb_white.png",
+              "tcm"    : "tcm112-555-4547",
+              "offerid": "1556"
+            },
+			{
+              "memory" : "64GB",
+              "price"  : "299",
+			  "rebate" : "250",
+			  "rtime"  : "6",
+              "image"  : "\\published_images\\ipad_air_2_64gb_white.png",
+              "tcm"    : "tcm112-555-4548",
+              "offerid": "1557"
+            }
+		]
+	},
+	{
+       "text"  : "svart",
+       "value" : "#000000",
+       "sizes" : [
+			{
+              "memory" : "16GB",
+     	      "price"  : "199",
+			  "rebate" : "149",
+			  "rtime"  : "6",
+     	      "image"  : "\\published_images\\ipad_air_2_16gb_black.png",
+      	      "tcm"    : "tcm112-555-4544",
+      	      "offerid": "1555"
+            },
+			{
+              "memory" : "32GB",
+              "price"  : "249",
+			  "rebate" : "200",
+			  "rtime"  : "6",
+              "image"  : "\\published_images\\ipad_air_2_32gb_black.png",
+              "tcm"    : "tcm112-555-4547",
+              "offerid": "1556"
+            },
+			{
+              "memory" : "64GB",
+              "price"  : "299",
+			  "rebate" : "249",
+			  "rtime"  : "6",			  
+              "image"  : "\\published_images\\ipad_air_2_64gb_black.png",
+              "tcm"   : "tcm112-555-4548",
+              "offerid": "1557"
+            }
+		]
+	},
+	{
+       "text"  : "guld",
+       "value" : "#000000",
+       "sizes" : [
+			{
+              "memory" : "32GB",
+              "price"  : "249",
+			  "rebate" : "200",
+			  "rtime"  : "6",			  
+              "image"  : "\\published_images\\ipad_air_2_32gb_guld.png",
+              "tcm": "tcm112-555-4547",
+              "offerid" : "1556"
+            },
+			{
+              "memory" : "64GB",
+              "price"  : "299",
+			  "rebate" : "249",
+			  "rtime"  : "6",			  
+              "image"  : "\\published_images\\ipad_air_2_64gb_guld.png",
+              "tcm"    : "tcm112-555-4548",
+              "offerid": "1557"
+            }
+		]
+	}
+]
+}
+}
+
+
+
+
+
+
+
+
+
+
+
